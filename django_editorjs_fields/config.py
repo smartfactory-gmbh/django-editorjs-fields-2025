@@ -110,7 +110,7 @@ PLUGINS_KEYS = {
     '@editorjs/image': 'Image',
     '@editorjs/header': 'Header',
     '@editorjs/checklist': 'Checklist',
-    '@editorjs/list': 'List',
+    '@editorjs/list': 'EditorjsList',
     '@editorjs/quote': 'Quote',
     '@editorjs/raw': 'Raw',
     '@editorjs/code': 'Code',
